@@ -17,7 +17,7 @@
 | Лекция/семинар | Тема | Материалы | Дата |
 | -- | -- | -- | -- |
 | Лекция | Transformers | [Презентация](https://docs.google.com/presentation/d/1fhH4D1JCajEjGhdck_xDVL4diQBDWvoJS3q81NjlTXc/edit?slide=id.g1bc991608e1_0_7#slide=id.g1bc991608e1_0_7) | 05.11.26 |
-| Лекция | Математика генеративных моделей | [TBA] | [TBA] |
+| Лекция | Математика генеративных моделей | [Презентация](https://docs.google.com/presentation/d/15IpVHLH8rKNqQ0sHLdqUbav1OFeKM7PwvjUj26Z96c4/edit?usp=sharing) | [TBA] |
 | Лекция | База про LLM: цикл обучения | [TBA] | [TBA] |
 | Лекция | Специальные языковые модели (MoE, reasoning, агенты) | [TBA] | [TBA] |
 | Лекция | Дообучение: оптимизации (адаптеры, квантизация) | [TBA] | [TBA] |
@@ -33,7 +33,8 @@
 # Примерное расписание семинаров
 | Семинар | Тема | Материалы | (Примерная) дата | Прошел? |
 | -- | -- | -- | -- | -- |
-| 1 | 1. LLM usage | [Тетрадка](https://colab.research.google.com/drive/1YbjFZm27q90DQIu9a3xUMjghMjyeXlgz?usp=sharing) | 5.11.26 | Нет |
+| 1 | 1. LLM usage | [Тетрадка](https://colab.research.google.com/drive/1YbjFZm27q90DQIu9a3xUMjghMjyeXlgz?usp=sharing) | 5.11.26 | Да |
+| 2 | 1. DIY Трансформер | [Тетрадка](https://colab.research.google.com/drive/1qJsYOyGnyRusRu03tDcf6BvyDq-mtVRh?usp=sharing) | 5.11.26 | Нет |
 
 # Домашние задания
 | ДЗ | Тема | Задание | Куда сдавать | Дедлайн |
