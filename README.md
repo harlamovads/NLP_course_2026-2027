@@ -20,8 +20,10 @@
 | Математика генеративных моделей ([Презентация](https://docs.google.com/presentation/d/15IpVHLH8rKNqQ0sHLdqUbav1OFeKM7PwvjUj26Z96c4/edit?usp=sharing)) | 12.11.26 | DIY Трансформер ([Тетрадка](https://colab.research.google.com/drive/1qJsYOyGnyRusRu03tDcf6BvyDq-mtVRh?usp=sharing)) | 05.11.26 |
 | База про LLM: цикл обучения ([Презентация](https://docs.google.com/presentation/d/1KnByTWXRN9UP91Qt50xTPzVAVldldfbBF8-oXb5G98A/edit?usp=sharing)) | 18.11.26 | — | — |
 | Специальные языковые модели (MoE, reasoning, агенты) ([Презентация](https://docs.google.com/presentation/d/1wwg1efus34_nVGF6HtOydLelKmkM82G1QvHXnzBn6xE/edit?usp=sharing)) | 25.11.26 | — | — |
-| Дообучение: подходы (SFT, RLHF, DPO) | [TBA] | — | — |
-| Дообучение: оптимизации (адаптеры, квантизация) | [TBA] | — | — |
+| Дообучение: подходы (SFT, RLHF, DPO) | 02.12.2026 | — | — |
+| Дообучение: оптимизации (адаптеры, квантизация) | 09.12.2026 | — | — |
+| Эмбеддеры и RAG | 16.12.2026 | — | — |
+| __НОВЫЙ ГОД__ |
 | Инфраструктура 1: железо и рядом | [TBA] | — | — |
 | Инфраструктура 2: математика и алгоритмы | [TBA] | — | — |
 | Правильный сетап эксперимента | [TBA] | — | — |
@@ -29,6 +31,7 @@
 | Интерпретация LLM | [TBA] | — | — |
 | Исторические подходы | [TBA] | — | — |
 | Парсеры (они все еще с нами) | [TBA] | — | — |
+| Коллоквиум | [TBA] | — | — |
 
 # Домашние задания
 
